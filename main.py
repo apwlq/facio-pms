@@ -1,5 +1,5 @@
 # 디버그 모드 설정
-debug = True
+debug = False
 
 """
 메인테이너 : 방주원
