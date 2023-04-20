@@ -1,0 +1,4 @@
+/.venv
+/QR_IMG
+/serviceAccountKey.json
+/__pycache__
